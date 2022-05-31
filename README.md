@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-I'm a Full-Stack developer who likes to work with JavaScript/Ruby
+I'm a Full-Stack developer.
 </p>
+</br>
 
 
 <div align="center">
