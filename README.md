@@ -1,11 +1,11 @@
 
 # Hi, I'm Alex
 
-<div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+<p align="center">
+  <a href="https://aralroca.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
   </a>
-</div>
+</p>
 
 I'm a Full-Stack developer who likes to work with JavaScript/Ruby
 
