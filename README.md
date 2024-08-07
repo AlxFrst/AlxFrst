@@ -2,10 +2,6 @@
 # Hi, I'm Alex
 
 <p align="center">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
-</p>
-
-<p align="center">
 I'm a Full-Stack developer.
 </p>
 </br>
