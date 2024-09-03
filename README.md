@@ -38,12 +38,6 @@ I'm passionate about creating useful and impactful software. My journey in tech 
 - 🤝 Helping fellow developers
 - 📚 Creating useful content for the dev community
 
-## 🤝 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
-
-[LinkedIn](#) | [Twitter](#) | [Personal Website](#)
-
 ---
 
 <div align="center">
